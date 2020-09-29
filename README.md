@@ -52,32 +52,32 @@ df['IMDb rating'].fillna(fill_val, inplace=True)
 
 # Displaying some Visualization
 
-- Plot for TV Show Genre released in 2020
+#### Plot for TV Show Genre released in 2020
 ![Recent_releases](images/recent_release.png)
 
-- Pair Plot for TV shows
+#### Pair Plot for TV shows.
 ![Pair_Plot](images/pair_plot.png)
 
-- Count Plot for TV shows Genre for the Data.
+#### Count Plot for TV shows Genre for the Data.
 ![Count_Plot](images/Count_Plot.png)
 
-- Count Plot for Age Group
+#### Count Plot for Age Group
 ![age_viewers](images/Age_viewers.png)
 
-- Pair Plot for Languages used in Shows
+#### Pair Plot for Languages used in Shows
 ![language](images/Language.png)
 
-- Plot for TV shows released in following Years
+#### Plot for TV shows released in following Years
 ![year_Plot](images/Year_Count.png)
 
-- Joint Plot
+#### Box Plot
+![Box_Plot](images/Box_Plot.png)
+
+#### Joint Plot
 ![Joint_Plot](images/Joint_Plot.png)
 
-- Plot for IMDb Rating as per Languages
+#### Plot for IMDb Rating as per Languages
 ![line_Plot](images/Line_Plot.png)
-
-- Pair Plot for TV shows
-  ![Pair_Plot](images/pair_plot.png)
 
 
 # ***Enough of Data Visualization 😒🤦‍♂️, Some key findings***
