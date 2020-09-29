@@ -61,22 +61,22 @@ df['IMDb rating'].fillna(fill_val, inplace=True)
 #### Count Plot for TV shows Genre for the Data.
 ![Count_Plot](images/Count_Plot.png)
 
-#### Count Plot for Age Group
+#### Count Plot for Age Group.
 ![age_viewers](images/Age_viewers.png)
 
-#### Pair Plot for Languages used in Shows
+#### Pair Plot for Languages used in Shows.
 ![language](images/Language.png)
 
-#### Plot for TV shows released in following Years
+#### Plot for TV shows released in following Years.
 ![year_Plot](images/Year_Count.png)
 
-#### Box Plot
+#### Box Plot for Age of viewers and No of seasons available.
 ![Box_Plot](images/Box_Plot.png)
 
-#### Joint Plot
+#### Joint Plot fro IMDB rating and Year of release with hue=(Age of viewers).
 ![Joint_Plot](images/Joint_Plot.png)
 
-#### Plot for IMDb Rating as per Languages
+#### Plot for IMDb Rating as per Languages.
 ![line_Plot](images/Line_Plot.png)
 
 
